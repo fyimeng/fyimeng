@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fyimeng
-- 👀 I’m interested in coding and data science.
+- 👀 I’m interested in coding, design, and data science.
 - 🌱 I’m currently a CS PhD graduate in 2021 June.
-- 💞️ I’m looking for data scientist/ software engineer fulltime/intern opportunities in Sydney.
+- 💞️ I’m looking for data scientist/ software engineer/ product design full-time/intern opportunities in Sydney.
 - 📫 How to reach me through fyimengmengmeng  gmail com 
 
 <!---
